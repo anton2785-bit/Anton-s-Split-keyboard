@@ -6,4 +6,7 @@
 * 40x Black keykaps
 * 40x diodes
 * The 2 difrent case parts
-* 
+* The 2 PCBs
+---
+# Images
+*
