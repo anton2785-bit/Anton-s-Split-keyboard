@@ -1,0 +1,99 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "669e6bbe-7e61-4593-b8c7-bd191a73ded6")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 138.43 156.21)
+		(size 105.41 87.63)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "721800aa-25f7-425e-b87c-2b4ae0416444")
+		(property "Sheetname" "right"
+			(at 138.43 155.4984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "side1.kicad_sch"
+			(at 138.43 244.4246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "split keyboard"
+				(path "/669e6bbe-7e61-4593-b8c7-bd191a73ded6"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 29.21 31.75)
+		(size 81.28 74.93)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+			(color 0 0 0 1)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "cf39ea2c-fa2e-4b7f-a142-fe3278043094")
+		(property "Sheetname" "left"
+			(at 29.21 31.0384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "side.kicad_sch"
+			(at 29.21 107.2646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "split keyboard"
+				(path "/669e6bbe-7e61-4593-b8c7-bd191a73ded6"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
