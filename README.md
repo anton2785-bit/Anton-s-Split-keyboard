@@ -7,6 +7,7 @@
 * 40x diodes
 * The 2 difrent case parts
 * The 2 PCBs
+* 2 Batteries
 ---
 # Images
 * This image inspired me for the layout for the keyboard
@@ -37,9 +38,12 @@
 * And finally you need to put all of the keycaps and test the keyboard
 
 ---
-# Use cases 
-* For me ill try to learn how to type faster on diffrent keyboard, because i now use the slower methouds for typing
+# Use Cases
+- Expanding my hands-on experience with hardware by designing more advanced PCBs and practicing soldering.
+- Challenging myself to improve typing speed and ergonomics by adapting to different keyboard layouts.
+
 
 ---
-Credits
+# Credits
+
 Designed and built by (Anton/ Anton-2785-bit) Inspired by open‑source mechanical keyboard and hackpad communities (https://blueprint.hackclub.com/home).
