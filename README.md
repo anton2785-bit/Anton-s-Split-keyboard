@@ -5,10 +5,11 @@
 * 40x MX-Style switches ( preferably black or red)
 * 40x Black keykaps
 * 40x diodes
-* 3 mini LEDs 
+* 3x mini LEDs
+* 2x Batteries
+* 1x Rotary encoder
 * The 2 difrent case parts
 * The 2 PCBs
-* 2 Batteries
 ---
 # Images
 * This image inspired me for the layout for the keyboard
