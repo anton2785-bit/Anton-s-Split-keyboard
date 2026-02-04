@@ -37,3 +37,9 @@
 * And finally you need to put all of the keycaps and test the keyboard
 
 ---
+# Use cases 
+* For me ill try to learn how to type faster on diffrent keyboard, because i now use the slower methouds for typing
+
+---
+Credits
+Designed and built by (Anton/ Anton-2785-bit) Inspired by open‑source mechanical keyboard and hackpad communities (https://blueprint.hackclub.com/home).
