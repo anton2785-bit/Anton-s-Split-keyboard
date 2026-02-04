@@ -28,3 +28,12 @@
 
 * And this is the whole assembly
 <img width="500" height="300" alt="3D model assembly" src="https://github.com/user-attachments/assets/b4368949-1479-4b3d-8989-48094c0698ed" />
+
+---
+# Instructions of how to assemble
+* First solder all of the diodes, keyboard switches, LEDs, Microcontrollers and batteries
+* Second place the now assembled PCB in the case and connect it to a computer via USB C cable
+* Third you need to upload the Firmware on the microcontrollers
+* And finally you need to put all of the keycaps and test the keyboard
+
+---
