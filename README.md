@@ -5,6 +5,7 @@
 * 40x MX-Style switches ( preferably black or red)
 * 40x Black keykaps
 * 40x diodes
+* 3 mini LEDs 
 * The 2 difrent case parts
 * The 2 PCBs
 * 2 Batteries
